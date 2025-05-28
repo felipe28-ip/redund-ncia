@@ -3,5 +3,4 @@
 #EXTINF:-1 tvg-id="canal1" group-title="Geral", Canal 1 - Principal (Olympus)
 http://olympusplayer.xyz/get.php?username=030144418&password=508307033&type=m3u_plus&output=mpegts
 
-#EXTINF:-1 tvg-id="canal1" group-title="Backup", Canal 1 - Backup
-http://seuservidorbackup.xyz:80/live/usuario/senha/1.ts
+
