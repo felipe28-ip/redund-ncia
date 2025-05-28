@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="canal1" group-title="Geral", Canal 1 - Principal (Olympus)
+http://olympusplayer.xyz:80/live/030144418/508307033/1.ts
+
+#EXTINF:-1 tvg-id="canal1" group-title="Backup", Canal 1 - Backup
+http://seuservidorbackup.xyz:80/live/usuario/senha/1.ts
