@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="OlympusTV" group-title="Testes", Olympus Lista
+http://olympusplayer.xyz/get.php?username=030144418&password=508307033&type=m3u_plus&output=mpegts
